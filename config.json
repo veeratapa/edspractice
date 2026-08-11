@@ -1,0 +1,10 @@
+{
+  "mountpoints": {
+    "/": {
+      "url": "https://main--edspractice--veeratapa.aem.live/"
+    },
+    "/docs": {
+      "url": "https://main--edspractice--veeratapa.aem.live/docs/"
+    }
+  }
+}
