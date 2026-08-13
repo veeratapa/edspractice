@@ -1,0 +1,11 @@
+# fstab.yaml for EDS in AEMaaCS
+mounts:
+  - name: docs
+    url: https://docs.google.com/document/d/1s5LuX2bOnDJdfSv2gDqR0Kx38Rjyv0ng/edit
+    mountPath: /docs
+    fstype: web
+    options:
+      - convert=docx2html
+      - allowlist=*.docx,*.pptx
+
+
