@@ -1,7 +1,7 @@
 # fstab.yaml for EDS in AEMaaCS
 mounts:
   - name: docs
-    url: https://docs.google.com/document/d/1s5LuX2bOnDJdfSv2gDqR0Kx38Rjyv0ng/edit
+    url: https://drive.google.com/drive/u/0/folders/1Y7EhS6TiikdSYXl2YHxLIw5ps6k9EgX5
     mountPath: /docs
     fstype: web
     options:
